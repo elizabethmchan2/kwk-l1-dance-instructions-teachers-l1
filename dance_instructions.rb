@@ -10,7 +10,7 @@ def base_footwork()
 end
 
 def skip_step(side)
-  puts "lower #{side} foot to the ground"
+  puts "lower"
 end
 
 starting_stance()
