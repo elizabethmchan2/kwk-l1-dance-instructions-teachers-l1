@@ -8,3 +8,5 @@ end
 def base_footwork()
   puts "lift right foot"
 end
+
+proper_stance()
