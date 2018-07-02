@@ -7,5 +7,4 @@ end
 
 def base_footwork()
   puts "lift right foot"
-  puts 
-
+end
