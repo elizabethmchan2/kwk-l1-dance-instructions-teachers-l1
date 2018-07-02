@@ -9,4 +9,7 @@ def base_footwork()
   puts "lift right foot"
 end
 
+def skip_step()
+  puts ""
+
 starting_stance()
