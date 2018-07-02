@@ -31,3 +31,4 @@ starting_stance()
 skip_step("left")
 base_footwork()
 bob_the_reins()
+lasso
