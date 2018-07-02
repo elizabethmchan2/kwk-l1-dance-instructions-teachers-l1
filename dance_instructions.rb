@@ -11,6 +11,8 @@ end
 
 def skip_step(side)
   puts "lower"
+  puts "bounce"
+  puts "briefly"
 end
 
 starting_stance()
