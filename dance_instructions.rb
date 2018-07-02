@@ -11,6 +11,7 @@ end
 
 def skip_step(side)
   puts "lower #{side} foot to the ground"
+end
 
 starting_stance()
 skip_step("left")
