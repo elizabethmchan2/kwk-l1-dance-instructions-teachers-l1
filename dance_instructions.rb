@@ -24,8 +24,9 @@ def bob_the_reins()
 end
 
 def lasso()
-  puts "Start"
-  puts "Be cool and be snazzy"
+  puts "Lift"
+  puts "Raise"
+  puts "Do"
 end
 
 starting_stance()
