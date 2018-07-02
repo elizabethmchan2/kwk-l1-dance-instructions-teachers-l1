@@ -16,6 +16,10 @@ def base_footwork()
   puts "Return right foot"
 end
 
+def bob_the_reins()
+  puts "yo"
+end
+
 starting_stance()
 skip_step("left")
 base_footwork()
