@@ -1,6 +1,6 @@
 
 # Code your methods below
-def lowerbody 
+def lowerbody() 
   puts "Plant legs far apart, bend knees slightly and keep posture loose"
-END
+end
 
