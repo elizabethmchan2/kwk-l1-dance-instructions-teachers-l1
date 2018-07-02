@@ -19,3 +19,4 @@ end
 
 starting_stance()
 skip_step("left")
+base_footwork()
