@@ -19,6 +19,8 @@ end
 def bob_the_reins()
   puts "Hold"
   puts "Cross"
+  puts "Lift"
+  puts "Do"
 end
 
 starting_stance()
