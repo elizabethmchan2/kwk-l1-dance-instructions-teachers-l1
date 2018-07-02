@@ -23,6 +23,10 @@ def bob_the_reins()
   puts "Do"
 end
 
+def lasso()
+  puts "Be cool and be snazzy"
+end
+
 starting_stance()
 skip_step("left")
 base_footwork()
