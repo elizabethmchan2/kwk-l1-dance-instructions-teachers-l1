@@ -17,7 +17,7 @@ def base_footwork()
 end
 
 def bob_the_reins()
-  puts "yo"
+  puts "Hold"
 end
 
 starting_stance()
