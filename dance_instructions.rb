@@ -5,14 +5,16 @@ def starting_stance()
 end
 
 
-def base_footwork()
-  puts "lift right foot"
-end
-
 def skip_step(side)
   puts "Lower"
   puts "Bounce"
   puts "Briefly"
+end
+
+
+
+def base_footwork()
+  puts "Lift right foot"
 end
 
 starting_stance()
